@@ -37,8 +37,3 @@ const nextISSTimesForMyLocation = function() {
 module.exports = {
   nextISSTimesForMyLocation
 };
-// module.exports = {
-//   fetchMyIP,
-//
-//   nextISSTimesForMyLocation
-// };
